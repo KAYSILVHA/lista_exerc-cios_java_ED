@@ -21,15 +21,61 @@ Lista de exercícios sobre Java proposta pela formação Fullstack oferecida pel
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- ...
+- Git
+- GitHub
+- Java
 
 
 ## 📝 Estrutura
 
 ```
-  src/
+  LISTA_EXERCICIOS_JAVA_ED/
 │
-├──
+├── Filas/
+|   └── ex_1/
+|   |   ├── Client.java
+|   |   ├── QueueSystem.java
+|   |   └── BankSimulator.java
+|   |
+|   └── ex_2/
+|   |   ├── PrintJob.java
+|   |   ├── PrintQueue.java
+|   |   └── PrintManager.java
+|   |
+|   └── ex_3/
+|       ├── Process.java
+|       ├── ProcessQueue.java
+|       └── ProcessManager.java
+|
+├── Lista_Duplamente_Encadeada/
+|   └── ex_1/
+|   |   ├── ActionNode.java
+|   |   ├── ActionHistory.java
+|   |   └── TextEditor.java
+|   |
+|   └── ex_2/
+|       ├── CardNode.java
+|       ├── Hand.java
+|       └── CardGame.java
+|   
+├── Lista_Simplesmente_encadeada/
+|   └── ex_1/
+|   |   ├── Task.java
+|   |   ├── TaskList.java
+|   |   └── TaskManager.java
+|   |
+|   └── ex_2/
+|   |   ├── UrlNode.java
+|   |   ├── UrlHistoryList .java
+|   |   └── BrowserHistoryManager.java
+|   |
+|   └── ex_3/
+|       ├── ActionNode.java
+|       ├── TextEditor.java
+|       └── UndoHistory.java
+|
+├── README.md
+
 
 ```
 <br>
@@ -46,7 +92,7 @@ como concluídas.
 </p>
 
 <p>
-<strong>RESPOSTA: <a href="">CLIQUE AQUI!</a></strong>
+<strong>RESPOSTA: <a href="./Lista_Simplesmente_encadeada/ex_1/">CLIQUE AQUI!</a></strong>
 </p>
 
 
@@ -62,7 +108,7 @@ URLs e remover URLs antigas quando a lista atingir um certo tamanho.
 </p>
 
 <p>
-<strong>RESPOSTA: <a href="">CLIQUE AQUI!</a></strong>
+<strong>RESPOSTA: <a href="./Lista_Simplesmente_encadeada/ex_2/">CLIQUE AQUI!</a></strong>
 </p>
 
 
@@ -78,7 +124,7 @@ realizadas e permita que o usuário desfaça as últimas ações.
 </p>
 
 <p>
-<strong>RESPOSTA: <a href="">CLIQUE AQUI!</a></strong>
+<strong>RESPOSTA: <a href="./Lista_Simplesmente_encadeada/ex_3/">CLIQUE AQUI!</a></strong>
 </p>
 
 
@@ -95,7 +141,7 @@ Exercício 2
 </p>
 
 <p>
-<strong>RESPOSTA: <a href="">CLIQUE AQUI!</a></strong>
+<strong>RESPOSTA: <a href="./Lista_Duplamente_Encadeada/ex_1/">CLIQUE AQUI!</a></strong>
 </p>
 
 
@@ -111,7 +157,7 @@ as cartas na mão.
 </p>
 
 <p>
-<strong>RESPOSTA: <a href="">CLIQUE AQUI!</a></strong>
+<strong>RESPOSTA: <a href="./Lista_Duplamente_Encadeada/ex_2/">CLIQUE AQUI!</a></strong>
 </p>
 
 
@@ -128,7 +174,7 @@ cliente.
 </p>
 
 <p>
-<strong>RESPOSTA: <a href="">CLIQUE AQUI!</a></strong>
+<strong>RESPOSTA: <a href="./Filas/ex_1/">CLIQUE AQUI!</a></strong>
 </p>
 
 
@@ -144,7 +190,7 @@ armazenar os trabalhos de impressão.
 </p>
 
 <p>
-<strong>RESPOSTA: <a href="">CLIQUE AQUI!</a></strong>
+<strong>RESPOSTA: <a href="./Filas/ex_2/">CLIQUE AQUI!</a></strong>
 </p>
 
 
@@ -160,7 +206,7 @@ mais antigo seja removido para execução.
 </p>
 
 <p>
-<strong>RESPOSTA: <a href="">CLIQUE AQUI!</a></strong>
+<strong>RESPOSTA: <a href="./Filas/ex_3/">CLIQUE AQUI!</a></strong>
 </p>
 
 
