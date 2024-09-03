@@ -218,3 +218,37 @@ mais antigo seja removido para execução.
 
 ## 🚀 Executar
 Siga os passos abaixo para configurar e executar o projeto localmente em sua máquina:
+## Pré-requisitos
+
+Antes de executar o projeto, você precisa ter o seguinte software instalado:
+
+- [Java Development Kit (JDK) 8 ou superior](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
+- Um IDE de sua preferência (recomendado: [IntelliJ IDEA](https://www.jetbrains.com/idea/) ou [Eclipse](https://www.eclipse.org/))
+
+## Como Executar os Exercícios
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/usuario/LISTA_EXERCICIOS_JAVA_ED.git
+   cd LISTA_EXERCICIOS_JAVA_ED
+   ```
+   
+2. Abra o projeto na sua IDE:
+
+  - Se estiver usando IntelliJ IDEA ou Eclipse, você pode abrir o diretório LISTA_EXERCICIOS_JAVA_ED diretamente como um projeto.
+    Navegue até o exercício que você deseja executar:
+
+    Por exemplo, para executar o exercício ex_1 na categoria Filas, navegue até Filas/ex_1/.
+    Compile e execute as classes Java.
+    
+  - No terminal ou dentro da sua IDE, você pode compilar e executar a classe principal de cada exercício.
+    Por exemplo, para o exercício ex_1 em Filas, você pode compilar e executar a classe BankSimulator.java:
+    ```bash
+    cd Filas/ex_1/
+    javac BankSimulator.java
+    java BankSimulator
+    ```
+    
+Repita o processo para outros exercícios.
+Basta navegar até a pasta correspondente ao exercício que deseja executar e seguir o mesmo procedimento.
